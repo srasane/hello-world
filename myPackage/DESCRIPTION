@@ -1,0 +1,11 @@
+Package: myPackage
+Type: Package
+Title: Demo Package
+Version: 0.1.0
+Author: Shivani Rasane
+Maintainer: Shivani Rasane <SRasane@my.harrisburgu.edu>
+Description: Creating R package
+License: license 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
